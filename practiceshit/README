@@ -2,7 +2,7 @@
 2.Start both the Apache server and mySQL database(phpmyadmin)
 
 The first page is the login page which is seperate for managers and customers.(login.php or loginserv.php)
-Or alternatively one can start the intro page and choose their required login page.
+Or alternatively one can start the intro.php page and choose their required login page.
 
 Data is collected from the forms in each page and the data is stored in a database called:"what"
 Any operations that need to be performed on data will be perfomed on the data stored in this database.
